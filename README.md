@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @muzenjakkevin
-- 👀 I’m interested in Webdevelopment
-- 🌱 I’m an upcoming webdeveloper
+- 👀 I’m interested in Webbdevelopment
+- 🌱 I’m an upcoming webbdeveloper
 - 📫 How to reach me ...
 
 <!---
